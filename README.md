@@ -4,3 +4,5 @@ This project was started a long time ago when I decided I needed a portfolio to 
 #### One thing I would like to point out is that all the visuals were created in Adobe Illustrator to help add a more personal style to the site (this is an intro to me, afterall!)
 
 I hope you enjoy it as much as I did creating it! :)
+
+# [Live](https://strauaar.github.io/aaron_strauli/)
