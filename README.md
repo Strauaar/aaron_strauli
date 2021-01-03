@@ -5,4 +5,4 @@ This project was started a long time ago when I decided I needed a portfolio to 
 
 I hope you enjoy it as much as I did creating it! :)
 
-# [Live](https://strauaar.github.io/aaron_strauli/)
+# [Live](https://astrauli.github.io/aaron_strauli/)
